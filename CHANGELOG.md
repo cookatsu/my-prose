@@ -7,6 +7,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] – 2025-07-06
 ### Added
-- Initial project setup
-- Added markdown rendering
-- Live preview feature
+- my prose project
+- README, gitignore, NOTICE,  LICENSE, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY
+- Maven
