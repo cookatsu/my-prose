@@ -1,42 +1,21 @@
-# How to Contribute
+# Contributing to My Prose
 
-Thank you for your interest in contributing to **my-prose**!  
-We’re looking for enthusiastic contributors and developers to improve this open-source Java/Maven project.
+Thanks for considering contributing!
 
----
+## Code Style
 
-## 📚 Resources
+- Use 2-space indentation
+- Follow ESLint rules
+- Use semantic commit messages
 
-Here are some useful links to get started:
+## Pull Request Process
 
-- GitHub Repository: [my-prose on GitHub](https://github.com/cookatsu/my-prose)
-- Roadmap & ideas: Check the [Issues tab](https://github.com/cookatsu/my-prose/issues)
-- Development discussions: Open an issue or create a PR
-- Bugs? Please report them [here](https://github.com/cookatsu/my-prose/issues)
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature/my-feature`)
+3. Commit your changes (`git commit -m "feat: add X"`)
+4. Push to the branch (`git push origin feature/my-feature`)
+5. Create a Pull Request
 
----
+## Reporting Issues
 
-## ✅ How to Contribute
-
-1. **Fork** the repository
-2. Create a feature branch:  
-   `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them with clear messages
-4. Ensure all tests pass using:  
-   `mvn clean install`
-5. Push your branch and open a **pull request**  
-   Describe what you did and why it helps
-
-We encourage small, focused commits and PRs. If your PR includes tests (e.g., using JUnit), even better!
-
----
-
-## 🧪 Testing
-
-Tests live under `src/test/java`.  
-Please write or update JUnit tests for any code you add or modify.
-
-Run all tests with:
-
-```bash
-mvn test
+Use GitHub Issues to report bugs or suggest features.
