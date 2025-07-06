@@ -27,4 +27,19 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows
+### Node.js ###
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Environment Files ###
+.env
+
+### Build Output ###
+dist/
+build/
+
+### IDEs and Editors ###
+.vscode/
+.idea/
