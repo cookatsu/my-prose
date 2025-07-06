@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Sára Ahmad
+# SPDX-License-Identifier: MIT
+
 package com.example;
 
 import org.junit.Test;
